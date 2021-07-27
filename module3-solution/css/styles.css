@@ -1,0 +1,61 @@
+body{
+    font-size:16px;
+    font-family:Trebuchet MS, sans-serif;
+}
+
+.navbar-brand{
+    height:80px;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus{
+    text-decoration:none;
+}
+
+#headernav{
+    background-color:darkgray;
+    border-radius:0px;
+    border:0px;
+}
+
+.navbar-header .navbar-toggle, .navbar-toggle .icon-bar{
+    border:1px solid #000000;
+}
+
+h1{
+    color:#000000;
+    margin-top:5px;
+    font-size:2em;
+}
+
+#list{
+    background-color:lightgray;
+    margin-top:0px;
+    margin-bottom:0px;
+}
+#list li{
+    text-align:center;
+    margin:10px;
+    font-size:1.1em;
+}
+
+h2{
+    margin-top:10px;
+    font-size:1.8em;
+    margin-bottom:30px;
+}
+
+.container .item h3{
+    margin-top:10px;
+    margin-bottom:25px;
+}
+
+.container .item{
+    border:1px solid #000000;
+    background-color:darkgray;
+    margin-bottom:30px;
+    padding:15px;
+}
+
+.container .item p{
+    text-align:justify;
+}
